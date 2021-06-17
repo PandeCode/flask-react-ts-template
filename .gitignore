@@ -1,1 +1,13 @@
 frontend/node_modules
+.env
+server/.env
+frontend/.env
+.cache
+dev.sh
+.spotify_caches
+.flask_session
+.vscode
+frontend/yarn.lock
+__pycache__
+server/__pycache__
+venv
